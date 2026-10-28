@@ -1,0 +1,17 @@
+# Vivado generated folders
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+.Xil/
+
+# Vivado logs and journals
+*.jou
+*.log
+*.str
+vivado_pid*.zip
+
+# Windows
+desktop.ini
+Thumbs.db
